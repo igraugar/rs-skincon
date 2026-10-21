@@ -1,0 +1,116 @@
+malignant_group,concept,edit,images,share
+Actinic keratosis,black,add,7,0.875
+Actinic keratosis,brown_hyperpigmentation,add,2,0.25
+Actinic keratosis,brown_hyperpigmentation,drop,1,0.125
+Actinic keratosis,crust,add,4,0.5
+Actinic keratosis,erosion,add,4,0.5
+Actinic keratosis,exudate,add,2,0.25
+Actinic keratosis,friable,add,2,0.25
+Actinic keratosis,nodule,add,2,0.25
+Actinic keratosis,papule,drop,1,0.125
+Actinic keratosis,patch,drop,3,0.375
+Actinic keratosis,purple,add,2,0.25
+Actinic keratosis,scale,add,1,0.125
+Actinic keratosis,telangiectasia,add,2,0.25
+Actinic keratosis,ulcer,add,3,0.375
+Actinic keratosis,umbilicated,add,2,0.25
+BCC,black,add,29,0.6041666666666666
+BCC,brown_hyperpigmentation,add,17,0.3541666666666667
+BCC,brown_hyperpigmentation,drop,5,0.10416666666666667
+BCC,crust,add,36,0.75
+BCC,dome_shaped,add,3,0.0625
+BCC,erosion,add,11,0.22916666666666666
+BCC,erythema,add,5,0.10416666666666667
+BCC,erythema,drop,11,0.22916666666666666
+BCC,exudate,add,5,0.10416666666666667
+BCC,friable,add,5,0.10416666666666667
+BCC,nodule,add,7,0.14583333333333334
+BCC,papule,add,1,0.020833333333333332
+BCC,papule,drop,14,0.2916666666666667
+BCC,plaque,drop,2,0.041666666666666664
+BCC,purple,add,9,0.1875
+BCC,scale,add,11,0.22916666666666666
+BCC,scar,add,2,0.041666666666666664
+BCC,telangiectasia,add,34,0.7083333333333334
+BCC,ulcer,add,11,0.22916666666666666
+BCC,umbilicated,add,20,0.4166666666666667
+BCC,yellow,add,1,0.020833333333333332
+Cutaneous lymphoma,black,add,18,0.5142857142857142
+Cutaneous lymphoma,brown_hyperpigmentation,add,27,0.7714285714285715
+Cutaneous lymphoma,crust,add,31,0.8857142857142857
+Cutaneous lymphoma,erosion,add,16,0.45714285714285713
+Cutaneous lymphoma,erythema,drop,13,0.37142857142857144
+Cutaneous lymphoma,exudate,add,13,0.37142857142857144
+Cutaneous lymphoma,friable,add,13,0.37142857142857144
+Cutaneous lymphoma,nodule,add,13,0.37142857142857144
+Cutaneous lymphoma,papule,drop,2,0.05714285714285714
+Cutaneous lymphoma,purple,add,13,0.37142857142857144
+Cutaneous lymphoma,scale,add,3,0.08571428571428572
+Cutaneous lymphoma,scar,add,2,0.05714285714285714
+Cutaneous lymphoma,telangiectasia,add,18,0.5142857142857142
+Cutaneous lymphoma,ulcer,add,16,0.45714285714285713
+Cutaneous lymphoma,umbilicated,add,4,0.11428571428571428
+Kaposi sarcoma,black,add,11,0.7857142857142857
+Kaposi sarcoma,brown_hyperpigmentation,add,6,0.42857142857142855
+Kaposi sarcoma,crust,add,13,0.9285714285714286
+Kaposi sarcoma,erosion,add,5,0.35714285714285715
+Kaposi sarcoma,erythema,drop,2,0.14285714285714285
+Kaposi sarcoma,exudate,add,4,0.2857142857142857
+Kaposi sarcoma,friable,add,4,0.2857142857142857
+Kaposi sarcoma,nodule,add,4,0.2857142857142857
+Kaposi sarcoma,papule,drop,7,0.5
+Kaposi sarcoma,purple,add,4,0.2857142857142857
+Kaposi sarcoma,scale,add,1,0.07142857142857142
+Kaposi sarcoma,telangiectasia,add,8,0.5714285714285714
+Kaposi sarcoma,ulcer,add,5,0.35714285714285715
+Kaposi sarcoma,umbilicated,add,6,0.42857142857142855
+Melanoma,black,add,26,0.9285714285714286
+Melanoma,brown_hyperpigmentation,add,8,0.2857142857142857
+Melanoma,crust,add,27,0.9642857142857143
+Melanoma,erosion,add,6,0.21428571428571427
+Melanoma,erythema,drop,2,0.07142857142857142
+Melanoma,exudate,add,5,0.17857142857142858
+Melanoma,friable,add,5,0.17857142857142858
+Melanoma,nodule,add,6,0.21428571428571427
+Melanoma,papule,drop,19,0.6785714285714286
+Melanoma,purple,add,6,0.21428571428571427
+Melanoma,scale,add,2,0.07142857142857142
+Melanoma,telangiectasia,add,23,0.8214285714285714
+Melanoma,ulcer,add,6,0.21428571428571427
+Melanoma,umbilicated,add,20,0.7142857142857143
+Other,black,add,3,0.75
+Other,brown_hyperpigmentation,add,3,0.75
+Other,crust,add,3,0.75
+Other,erosion,add,3,0.75
+Other,exudate,add,3,0.75
+Other,friable,add,3,0.75
+Other,nodule,add,3,0.75
+Other,purple,add,3,0.75
+Other,scar,add,1,0.25
+Other,telangiectasia,add,1,0.25
+Other,ulcer,add,3,0.75
+SCC,black,add,17,0.5862068965517241
+SCC,brown_hyperpigmentation,add,13,0.4482758620689655
+SCC,brown_hyperpigmentation,drop,1,0.034482758620689655
+SCC,crust,add,23,0.7931034482758621
+SCC,crust,drop,1,0.034482758620689655
+SCC,erosion,add,14,0.4827586206896552
+SCC,erosion,drop,1,0.034482758620689655
+SCC,erythema,add,1,0.034482758620689655
+SCC,erythema,drop,6,0.20689655172413793
+SCC,exudate,add,7,0.2413793103448276
+SCC,exudate,drop,1,0.034482758620689655
+SCC,friable,add,7,0.2413793103448276
+SCC,friable,drop,1,0.034482758620689655
+SCC,nodule,add,7,0.2413793103448276
+SCC,papule,add,1,0.034482758620689655
+SCC,papule,drop,3,0.10344827586206896
+SCC,purple,add,7,0.2413793103448276
+SCC,scale,add,6,0.20689655172413793
+SCC,scale,drop,2,0.06896551724137931
+SCC,telangiectasia,add,15,0.5172413793103449
+SCC,ulcer,add,13,0.4482758620689655
+SCC,umbilicated,add,9,0.3103448275862069
+SCC,white_hypopigmentation,add,1,0.034482758620689655
+SCC,yellow,add,2,0.06896551724137931
+SCC,yellow,drop,2,0.06896551724137931

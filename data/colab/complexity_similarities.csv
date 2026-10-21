@@ -1,0 +1,4 @@
+pairs,count,mean cosine,median cosine
+"same profile, different label",3797,0.4425272459173092,0.440271258354187
+"same profile, same label",12550,0.4501733915083318,0.4396255165338516
+different profiles (random),19313,0.4062490463256836,0.397603839635849

@@ -1,0 +1,101 @@
+image_id,source,diagnosis,malignant,outlier_score
+ddi_000068.png,ddi,mycosis-fungoides,1,0.3681902
+fitz_3042a71577705ce4987379043d185ab9,fitzpatrick17k,squamous cell carcinoma,1,0.4217296
+ddi_000212.png,ddi,acne-cystic,0,0.47459355
+fitz_0b04efa3c475de827500dad79ab23a37,fitzpatrick17k,lichen amyloidosis,0,0.47568417
+ddi_000185.png,ddi,eccrine-poroma,0,0.47652307
+fitz_2c899ba3e3892c1fe868aabfe58c3007,fitzpatrick17k,folliculitis,0,0.47986916
+fitz_01b5477523dde92c62e474c78f3b7c88,fitzpatrick17k,photodermatoses,0,0.48297155
+fitz_a78d0f91a2fb8643f3ff8b8abdce30ca,fitzpatrick17k,lichen simplex,0,0.48431194
+fitz_ad8f32410a06401b1593ba1a11f0bb82,fitzpatrick17k,folliculitis,0,0.48521513
+fitz_7617d2e5001209c7a5d4f9d59a222271,fitzpatrick17k,aplasia cutis,0,0.4884272
+fitz_7f4f73f61ddc330d6350fdaea66864ba,fitzpatrick17k,neurodermatitis,0,0.4896861
+fitz_a05e698987d12e1ba3c30200b65d5de1,fitzpatrick17k,lichen amyloidosis,0,0.4904238
+fitz_496b1cf6569af308995ffe2d2e92e747,fitzpatrick17k,scabies,0,0.49307033
+fitz_cf423d37c907546f13ee1427b1e5efe3,fitzpatrick17k,urticaria,0,0.4932552
+fitz_9025c9242b5f8ca354e7d4fa59c27921,fitzpatrick17k,psoriasis,0,0.49414715
+fitz_42e48f474abe01d645db3efe4df2968c,fitzpatrick17k,keloid,0,0.49706283
+fitz_9a7f5c20df46b3403b70a6e7b3f07c74,fitzpatrick17k,xanthomas,0,0.49937207
+fitz_f206053f8df79e80fe17365004c4f48a,fitzpatrick17k,port wine stain,0,0.5027791
+fitz_76b5c7ee9c4b691d65f173fd0c4a25c2,fitzpatrick17k,neurotic excoriations,0,0.50353587
+ddi_000360.png,ddi,epidermal-cyst,0,0.50443894
+fitz_7cedaa3277cb1efd41f5f9f70e6be0c7,fitzpatrick17k,squamous cell carcinoma,1,0.50639755
+fitz_5ea2a52a6fef1120579bac926c791a66,fitzpatrick17k,photodermatoses,0,0.5082827
+fitz_47636cb8d1cea91cc2363e837a0a5954,fitzpatrick17k,melanoma,1,0.51093787
+fitz_9bd4be4fff074e71e4202da6eec0d307,fitzpatrick17k,lichen planus,0,0.51343024
+fitz_26248ec3f95517f2b7c21433cdf52913,fitzpatrick17k,stevens johnson syndrome,0,0.514533
+ddi_000327.png,ddi,epidermal-cyst,0,0.5209288
+ddi_000205.png,ddi,melanocytic-nevi,0,0.52207065
+fitz_5ebf2926c88d2a8b5411ae057705a5ac,fitzpatrick17k,squamous cell carcinoma,1,0.52249897
+fitz_8d06774261b4beba2b6e91ebd76e8981,fitzpatrick17k,congenital nevus,0,0.52320427
+fitz_f6e6b1a8d1c1113cc25de93907d33a22,fitzpatrick17k,langerhans cell histiocytosis,0,0.52325386
+fitz_754dd021767e53cd743339ab68583225,fitzpatrick17k,tungiasis,0,0.5273526
+fitz_10875c6d5e9d32bbecde83124d90a131,fitzpatrick17k,kaposi sarcoma,1,0.52880627
+fitz_5a360b7eed522c75b447c80fe4d353e0,fitzpatrick17k,acanthosis nigricans,0,0.5327196
+fitz_7ad362076a87f9c248d9e43bdca031af,fitzpatrick17k,neurofibromatosis,0,0.5333356
+ddi_000028.png,ddi,mycosis-fungoides,1,0.5337555
+fitz_81715eb5254d18a4326891ac40f7cc39,fitzpatrick17k,lichen planus,0,0.5349635
+fitz_3d566f1932ff9c0f69fba5ced907c8fe,fitzpatrick17k,allergic contact dermatitis,0,0.5350236
+ddi_000014.png,ddi,squamous-cell-carcinoma,1,0.53614956
+fitz_acc5c7d22fb46617a7092334d9ce14ac,fitzpatrick17k,scabies,0,0.536706
+fitz_2152c7fbfb77f88322ec31b5239dcd53,fitzpatrick17k,psoriasis,0,0.53719234
+fitz_1ac2010d3ea57b780a9be12e2304516a,fitzpatrick17k,vitiligo,0,0.53748834
+fitz_88e01f42a65484689d64d4a94ce83374,fitzpatrick17k,scleroderma,0,0.5382619
+fitz_c2caca35984332f9587fecb2774253a0,fitzpatrick17k,prurigo nodularis,0,0.53931504
+fitz_79c05b80c05714ff9a87d2ad71476921,fitzpatrick17k,neurodermatitis,0,0.53942996
+fitz_951d7fd12e57a1fa88198be24823af35,fitzpatrick17k,striae,0,0.54330915
+fitz_e645097813227eccadaab98cbf5c4759,fitzpatrick17k,epidermolysis bullosa,0,0.5444019
+fitz_ff6974b6616a4dd141ddc16a5c80d4c0,fitzpatrick17k,folliculitis,0,0.5445131
+fitz_fe63b3d0c69f9c6a552d97328d89de0a,fitzpatrick17k,acanthosis nigricans,0,0.5448038
+fitz_b4d84ed3e8abf9eb17df85c72a2cb8f7,fitzpatrick17k,neurofibromatosis,0,0.5450139
+fitz_b89b3257240432ed3bb163514db0974a,fitzpatrick17k,neutrophilic dermatoses,0,0.54584384
+fitz_7edf479ea7058b405395c9985d80cd61,fitzpatrick17k,scabies,0,0.54950035
+ddi_000216.png,ddi,verruciform-xanthoma,0,0.5495042
+fitz_c995745018525c980abe6c9ec79fb42a,fitzpatrick17k,squamous cell carcinoma,1,0.5495552
+ddi_000484.png,ddi,basal-cell-carcinoma,1,0.55035067
+fitz_3f51e93925f09e7f150cfbc9714abd9c,fitzpatrick17k,epidermal nevus,0,0.5505465
+fitz_f5530b19c11c6211cfda4e1ab9e4dd91,fitzpatrick17k,folliculitis,0,0.5511227
+fitz_e177c1b1ca76aebe0cb5c990d1bff462,fitzpatrick17k,scleroderma,0,0.5529508
+fitz_31eee568029f5a70bbda34af551bc67b,fitzpatrick17k,keloid,0,0.5535112
+fitz_e20e23a5490f408a2d85edd58e397bcc,fitzpatrick17k,scabies,0,0.554849
+ddi_000199.png,ddi,eczema-spongiotic-dermatitis,0,0.5552191
+fitz_c947a671109f3d95e08eca2e1c42d526,fitzpatrick17k,fordyce spots,0,0.5577506
+fitz_1f22073e2682cfccd92846d92b9d29bf,fitzpatrick17k,telangiectases,0,0.55930406
+fitz_050fa8d2bcf1f2eb85fbcdb9d88e1ecf,fitzpatrick17k,neurofibromatosis,0,0.56271636
+ddi_000147.png,ddi,acrochordon,0,0.56478494
+ddi_000213.png,ddi,neurofibroma,0,0.5652244
+fitz_f674bfe634074589282d124ed4c53f80,fitzpatrick17k,neutrophilic dermatoses,0,0.56568724
+ddi_000162.png,ddi,melanoma,1,0.566303
+fitz_20f4aab1a014bc3c9b59bf0a36606800,fitzpatrick17k,pyogenic granuloma,0,0.56673306
+ddi_000165.png,ddi,metastatic-carcinoma,1,0.5672206
+ddi_000431.png,ddi,epidermal-cyst,0,0.5682097
+fitz_7cfee4dfd78b1f71fd5f5c35512b5ecc,fitzpatrick17k,scleroderma,0,0.5714036
+fitz_753b9abb38fc058f9f517490ff9bd4c7,fitzpatrick17k,naevus comedonicus,0,0.57170355
+ddi_000025.png,ddi,subcutaneous-t-cell-lymphoma,1,0.57205397
+ddi_000601.png,ddi,seborrheic-keratosis,0,0.57231885
+fitz_a42224fcf640f0bca5a7564b9792495a,fitzpatrick17k,squamous cell carcinoma,1,0.5724344
+ddi_000223.png,ddi,verruca-vulgaris,0,0.5728037
+fitz_396eb306ac0e86a5c407d14b4ce50dab,fitzpatrick17k,vitiligo,0,0.57378334
+fitz_7d2a7e3bc37f5854116fd0a1f9914932,fitzpatrick17k,naevus comedonicus,0,0.5741696
+fitz_69b7311e2ef3c1c7971021466106b246,fitzpatrick17k,milia,0,0.5746727
+fitz_b5a9aa5155e59feee65f731641bcbe6d,fitzpatrick17k,pityriasis rosea,0,0.5748525
+fitz_4ef0025817e752ae5981dd0358b2d242,fitzpatrick17k,sarcoidosis,0,0.575233
+ddi_000065.png,ddi,mycosis-fungoides,1,0.5759676
+fitz_c47b138c95185f1914301bd1554b0862,fitzpatrick17k,ichthyosis vulgaris,0,0.57652605
+ddi_000081.png,ddi,acrochordon,0,0.5774542
+fitz_deea92319824a37b76fd01b2a667cf8b,fitzpatrick17k,neurofibromatosis,0,0.57824403
+fitz_13adab488f0d546393badd628e6b0cab,fitzpatrick17k,acrodermatitis enteropathica,0,0.578736
+fitz_c1b162ecbd537349c8df036a7f7627dc,fitzpatrick17k,melanoma,1,0.578748
+fitz_60ee7684bd22ec2f13b0776d9961666e,fitzpatrick17k,scabies,0,0.5789299
+fitz_44112aa31b9075f3ea05c311695922ff,fitzpatrick17k,epidermolysis bullosa,0,0.5790344
+fitz_37776f44e7f4949826d0fd29525620d4,fitzpatrick17k,squamous cell carcinoma,1,0.57915735
+fitz_ca9fe71f9b4e6348554b749f3c2e56d2,fitzpatrick17k,superficial spreading melanoma ssm,1,0.5819317
+fitz_9c4c7935f340d818e082fdc534c62528,fitzpatrick17k,naevus comedonicus,0,0.5821584
+fitz_a9c06003e569b38533dfdfc53a9b54cc,fitzpatrick17k,ichthyosis vulgaris,0,0.5825301
+fitz_6f620dfd0f069172bfecfc3effc10865,fitzpatrick17k,porokeratosis of mibelli,0,0.5829078
+fitz_664d794014b44cfa24cd8c4c864be636,fitzpatrick17k,squamous cell carcinoma,1,0.5837502
+fitz_3a9e8348a8c8673250c009cd940bd082,fitzpatrick17k,pyogenic granuloma,0,0.5843194
+fitz_673023e413bd6c13a22159b7404ee356,fitzpatrick17k,vitiligo,0,0.5845372
+ddi_000144.png,ddi,epidermal-cyst,0,0.5846442
+fitz_ef6b1323e2822f37655d595f7d7494f7,fitzpatrick17k,psoriasis,0,0.5848475
+fitz_7064c6969d45963a739fdafc0955cf67,fitzpatrick17k,neurofibromatosis,0,0.5857005

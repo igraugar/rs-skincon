@@ -1,0 +1,10 @@
+model,seed,forced_missed,forced_detected,other_missed,other_detected
+hard,42,15,17,19,74
+hard,64,11,21,14,79
+hard,128,13,19,17,76
+hybrid,42,16,16,22,71
+hybrid,64,12,20,13,80
+hybrid,128,10,22,11,82
+soft,42,12,20,15,78
+soft,64,15,17,18,75
+soft,128,10,22,13,80

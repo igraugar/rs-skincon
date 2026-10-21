@@ -1,0 +1,10 @@
+setting,value
+split_seed,2024
+embedder,dinov2_vits14
+tau_group,0.9
+tau_duplicate,0.95
+tau_near_exact,0.99
+phash_confirm_bits,10
+phash_exact_bits,6
+min_train_positives,30
+use_ddi,True

@@ -1,0 +1,4 @@
+model,states,weight_decay,lr,n_visual,l1
+hard,validation_threshold,0.01,0.001,,
+hybrid,validation_threshold,0.01,0.001,32.0,0.1
+soft,,0.0001,0.003,,

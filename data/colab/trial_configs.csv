@@ -1,0 +1,7 @@
+config,seed,tunable_pct,batch_size,lr,backbone_lr_mult,optimizer,weight_decay,head_dropout,label_smoothing,stochastic_depth,augment,img_size,warmup_epochs,concept_weighting
+base_bb1.0,42,100,8,0.0003,1.0,adamw,0.05,0.5,0.0,0.4,strong,300,1,False
+base_cw,128,100,8,0.0003,0.3,adamw,0.05,0.5,0.0,0.4,strong,300,1,True
+base_cw,42,100,8,0.0003,0.3,adamw,0.05,0.5,0.0,0.4,strong,300,1,True
+base_cw,64,100,8,0.0003,0.3,adamw,0.05,0.5,0.0,0.4,strong,300,1,True
+base_lr1e-3,42,100,8,0.001,0.3,adamw,0.05,0.5,0.0,0.4,strong,300,1,False
+base,42,100,8,0.0003,0.3,adamw,0.05,0.5,0.0,0.4,strong,300,1,False

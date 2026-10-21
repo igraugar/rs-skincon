@@ -1,0 +1,142 @@
+model,diagnosis,test_images,flag_rate
+hard,acne,7,0.2857142857142857
+hard,acne vulgaris,8,0.25
+hard,acquired autoimmune bullous diseaseherpes gestationis,7,0.7619047619047619
+hard,acrodermatitis enteropathica,7,0.9523809523809524
+hard,allergic contact dermatitis,11,0.5757575757575758
+hard,dariers disease,5,0.3333333333333333
+hard,dermatofibroma,10,0.8666666666666667
+hard,drug eruption,7,0.5714285714285715
+hard,eczema,10,0.8666666666666667
+hard,epidermal cyst,7,0.8571428571428571
+hard,erythema annulare centrifigum,5,0.6666666666666666
+hard,erythema multiforme,7,0.8095238095238094
+hard,folliculitis,9,0.5185185185185185
+hard,granuloma annulare,8,0.7083333333333334
+hard,hidradenitis,6,0.8333333333333334
+hard,juvenile xanthogranuloma,5,0.6
+hard,keloid,6,0.38888888888888884
+hard,lichen planus,19,0.7017543859649122
+hard,lupus erythematosus,21,0.5714285714285715
+hard,lupus subacute,7,0.38095238095238093
+hard,lyme disease,8,0.2916666666666667
+hard,lymphangioma,6,0.7222222222222223
+hard,melanocytic nevi,26,0.8974358974358975
+hard,milia,5,0.5333333333333333
+hard,mucous cyst,5,0.26666666666666666
+hard,nematode infection,8,0.5
+hard,neurofibromatosis,6,0.7777777777777778
+hard,neutrophilic dermatoses,15,0.9333333333333332
+hard,photodermatoses,19,0.5087719298245613
+hard,pilar cyst,5,0.6666666666666666
+hard,pityriasis rosea,6,0.3333333333333333
+hard,pityriasis rubra pilaris,11,0.7575757575757577
+hard,porokeratosis of mibelli,6,0.7222222222222222
+hard,prurigo nodularis,7,0.6666666666666666
+hard,psoriasis,16,0.6875
+hard,pustular psoriasis,5,0.5333333333333333
+hard,pyogenic granuloma,11,0.9696969696969697
+hard,rosacea,5,0.7999999999999999
+hard,sarcoidosis,10,0.7666666666666666
+hard,scabies,22,0.5909090909090909
+hard,scleroderma,13,0.3076923076923077
+hard,seborrheic dermatitis,6,0.7777777777777778
+hard,seborrheic keratosis,12,1.0
+hard,telangiectases,6,0.5
+hard,tuberous sclerosis,5,0.3333333333333333
+hard,urticaria,6,0.16666666666666666
+hard,verruca vulgaris,5,0.7333333333333334
+hybrid,acne,7,0.2857142857142857
+hybrid,acne vulgaris,8,0.375
+hybrid,acquired autoimmune bullous diseaseherpes gestationis,7,0.8095238095238094
+hybrid,acrodermatitis enteropathica,7,1.0
+hybrid,allergic contact dermatitis,11,0.6363636363636364
+hybrid,dariers disease,5,0.3333333333333333
+hybrid,dermatofibroma,10,0.8666666666666667
+hybrid,drug eruption,7,0.6190476190476191
+hybrid,eczema,10,0.8333333333333334
+hybrid,epidermal cyst,7,0.9047619047619048
+hybrid,erythema annulare centrifigum,5,0.7999999999999999
+hybrid,erythema multiforme,7,0.8571428571428571
+hybrid,folliculitis,9,0.6296296296296297
+hybrid,granuloma annulare,8,0.7083333333333334
+hybrid,hidradenitis,6,1.0
+hybrid,juvenile xanthogranuloma,5,0.7333333333333334
+hybrid,keloid,6,0.38888888888888884
+hybrid,lichen planus,19,0.6491228070175438
+hybrid,lupus erythematosus,21,0.6984126984126985
+hybrid,lupus subacute,7,0.5238095238095238
+hybrid,lyme disease,8,0.4583333333333333
+hybrid,lymphangioma,6,0.7222222222222223
+hybrid,melanocytic nevi,26,0.923076923076923
+hybrid,milia,5,0.6
+hybrid,mucous cyst,5,0.39999999999999997
+hybrid,nematode infection,8,0.5
+hybrid,neurofibromatosis,6,0.7777777777777778
+hybrid,neutrophilic dermatoses,15,0.9555555555555556
+hybrid,photodermatoses,19,0.5964912280701754
+hybrid,pilar cyst,5,0.7999999999999999
+hybrid,pityriasis rosea,6,0.27777777777777773
+hybrid,pityriasis rubra pilaris,11,0.6666666666666666
+hybrid,porokeratosis of mibelli,6,0.7777777777777778
+hybrid,prurigo nodularis,7,0.7142857142857143
+hybrid,psoriasis,16,0.7083333333333334
+hybrid,pustular psoriasis,5,0.4666666666666666
+hybrid,pyogenic granuloma,11,0.9696969696969697
+hybrid,rosacea,5,0.9333333333333332
+hybrid,sarcoidosis,10,0.8333333333333334
+hybrid,scabies,22,0.6363636363636364
+hybrid,scleroderma,13,0.3076923076923077
+hybrid,seborrheic dermatitis,6,0.7777777777777778
+hybrid,seborrheic keratosis,12,1.0
+hybrid,telangiectases,6,0.5
+hybrid,tuberous sclerosis,5,0.3333333333333333
+hybrid,urticaria,6,0.16666666666666666
+hybrid,verruca vulgaris,5,0.8666666666666667
+soft,acne,7,0.2857142857142857
+soft,acne vulgaris,8,0.08333333333333333
+soft,acquired autoimmune bullous diseaseherpes gestationis,7,0.6666666666666666
+soft,acrodermatitis enteropathica,7,0.7619047619047619
+soft,allergic contact dermatitis,11,0.45454545454545453
+soft,dariers disease,5,0.20000000000000004
+soft,dermatofibroma,10,0.8333333333333334
+soft,drug eruption,7,0.5714285714285714
+soft,eczema,10,0.6333333333333333
+soft,epidermal cyst,7,0.8571428571428571
+soft,erythema annulare centrifigum,5,0.6666666666666666
+soft,erythema multiforme,7,0.6666666666666666
+soft,folliculitis,9,0.40740740740740744
+soft,granuloma annulare,8,0.5416666666666666
+soft,hidradenitis,6,0.8333333333333334
+soft,juvenile xanthogranuloma,5,0.4000000000000001
+soft,keloid,6,0.4444444444444444
+soft,lichen planus,19,0.6666666666666666
+soft,lupus erythematosus,21,0.5873015873015873
+soft,lupus subacute,7,0.3333333333333333
+soft,lyme disease,8,0.16666666666666666
+soft,lymphangioma,6,0.7777777777777778
+soft,melanocytic nevi,26,0.8974358974358975
+soft,milia,5,0.39999999999999997
+soft,mucous cyst,5,0.3333333333333333
+soft,nematode infection,8,0.625
+soft,neurofibromatosis,6,0.6666666666666666
+soft,neutrophilic dermatoses,15,0.888888888888889
+soft,photodermatoses,19,0.5087719298245613
+soft,pilar cyst,5,0.7333333333333334
+soft,pityriasis rosea,6,0.3333333333333333
+soft,pityriasis rubra pilaris,11,0.7272727272727272
+soft,porokeratosis of mibelli,6,0.8333333333333334
+soft,prurigo nodularis,7,0.5714285714285715
+soft,psoriasis,16,0.5625
+soft,pustular psoriasis,5,0.6
+soft,pyogenic granuloma,11,0.9696969696969697
+soft,rosacea,5,0.6
+soft,sarcoidosis,10,0.6666666666666666
+soft,scabies,22,0.7272727272727272
+soft,scleroderma,13,0.3076923076923077
+soft,seborrheic dermatitis,6,0.7222222222222222
+soft,seborrheic keratosis,12,1.0
+soft,telangiectases,6,0.7777777777777778
+soft,tuberous sclerosis,5,0.3333333333333333
+soft,urticaria,6,0.16666666666666666
+soft,verruca vulgaris,5,0.8666666666666667

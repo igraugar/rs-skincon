@@ -1,0 +1,49 @@
+filter,group,retained
+none,BCC,1.0
+none,SCC,1.0
+none,Melanoma,1.0
+none,Cutaneous lymphoma,1.0
+none,Actinic keratosis,1.0
+none,Kaposi sarcoma,1.0
+none,Other,1.0
+none,Non-malignant,1.0
+symmetric,BCC,0.31313131313131315
+symmetric,SCC,0.43617021276595747
+symmetric,Melanoma,0.24
+symmetric,Cutaneous lymphoma,0.044444444444444446
+symmetric,Actinic keratosis,0.2727272727272727
+symmetric,Kaposi sarcoma,0.26666666666666666
+symmetric,Other,0.5
+symmetric,Non-malignant,0.31568228105906315
+asymmetric,BCC,1.0
+asymmetric,SCC,1.0
+asymmetric,Melanoma,1.0
+asymmetric,Cutaneous lymphoma,1.0
+asymmetric,Actinic keratosis,1.0
+asymmetric,Kaposi sarcoma,1.0
+asymmetric,Other,1.0
+asymmetric,Non-malignant,0.31568228105906315
+majority,BCC,0.3333333333333333
+majority,SCC,0.43617021276595747
+majority,Melanoma,0.37333333333333335
+majority,Cutaneous lymphoma,0.044444444444444446
+majority,Actinic keratosis,0.3181818181818182
+majority,Kaposi sarcoma,0.26666666666666666
+majority,Other,0.5
+majority,Non-malignant,0.9959266802443992
+weighted,BCC,0.7575757575757576
+weighted,SCC,0.8723404255319149
+weighted,Melanoma,0.76
+weighted,Cutaneous lymphoma,0.5333333333333333
+weighted,Actinic keratosis,0.7727272727272727
+weighted,Kaposi sarcoma,0.6
+weighted,Other,0.5
+weighted,Non-malignant,0.7708757637474541
+tau,BCC,0.6060606060606061
+tau,SCC,0.8297872340425532
+tau,Melanoma,0.5733333333333334
+tau,Cutaneous lymphoma,0.3333333333333333
+tau,Actinic keratosis,0.7727272727272727
+tau,Kaposi sarcoma,0.6
+tau,Other,0.5
+tau,Non-malignant,1.0

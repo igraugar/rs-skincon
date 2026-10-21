@@ -1,0 +1,314 @@
+section,quantity,value
+Clean dataset,Fitzpatrick17k images annotated by SkinCon,3690
+Clean dataset,DDI images annotated by SkinCon,656
+Clean dataset,Fitzpatrick17k images flagged by the annotators,460
+Clean dataset,DDI images flagged by the annotators,20
+Clean dataset,Fitzpatrick17k images excluded by quality control,3
+Clean dataset,images entering the cleaning rules,3863
+Clean dataset,candidate near-copy pairs,475
+Clean dataset,confirmed duplicate pairs,30
+Clean dataset,confirmed pairs that satisfy both detectors,26
+Clean dataset,pairs with cosine of at least 0.9,453
+Clean dataset,pairs with cosine of at least 0.9 that differ in diagnosis,207
+Clean dataset,pairs with cosine of at least 0.9 that differ in malignancy,46
+Clean dataset,pairs with cosine of at least 0.95,105
+Clean dataset,pairs with cosine of at least 0.95 that differ in diagnosis,7
+Clean dataset,pairs with cosine of at least 0.95 that differ in malignancy,0
+Clean dataset,unconfirmed pairs left for visual review,78
+Clean dataset,near-copy pairs across the splits of the earlier partition,275
+Clean dataset,share of images removed,0.007765984985762361
+Clean dataset,removal rate of malignant images,0.0139318885448916
+Clean dataset,removal rate of non-malignant images,0.0065278209511967
+Clean dataset,"chi-square p-value of the removal rate, malignancy",0.0871244946130181
+Clean dataset,"chi-square p-value of the removal rate, skin type",0.1174376132561245
+Clean dataset,Fitzpatrick17k images kept,3202
+Clean dataset,kept Fitzpatrick17k images that belong to Fitzpatrick17k-C,2212
+Clean dataset,removed Fitzpatrick17k duplicates,25
+Clean dataset,removed duplicates also excluded from Fitzpatrick17k-C,23
+Clean dataset,clean images,3833
+Clean dataset,malignant images,637
+Clean dataset,prevalence of malignancy,0.16618836420558308
+Clean dataset,non-neoplastic images,2300
+Clean dataset,benign images,896
+Clean dataset,malignant images,637
+Clean dataset,diagnoses,175
+Clean dataset,malignant diagnosis labels,24
+Clean dataset,train images,2318
+Clean dataset,malignant train images,354
+Clean dataset,valid images,795
+Clean dataset,malignant valid images,158
+Clean dataset,test images,720
+Clean dataset,malignant test images,125
+Clean dataset,BCC images,189
+Clean dataset,SCC images,171
+Clean dataset,Melanoma images,126
+Clean dataset,Cutaneous lymphoma images,79
+Clean dataset,Actinic keratosis images,33
+Clean dataset,Kaposi sarcoma images,32
+Clean dataset,Other images,7
+Clean dataset,minimum number of positive training images for E24,30
+Inconsistency,E24 boundary images,2753
+Inconsistency,E24 boundary share,0.7182363683798592
+Inconsistency,E24 accuracy ceiling,0.87998956430994
+Inconsistency,E24 balanced accuracy ceiling,0.7551835791599781
+Inconsistency,E24 AUROC ceiling,0.8539483714926233
+Inconsistency,V20 AUROC ceiling,0.8399760886351267
+Inconsistency,accuracy of the rule that labels every image non-malignant,0.833811635794417
+Inconsistency,A48 boundary share,0.6441429689538221
+Inconsistency,A48 label information,0.4098657395876562
+Inconsistency,E24 label information,0.34604744669324744
+Inconsistency,V12 label information,0.1648751873553564
+Inconsistency,E24 lower bound on the error (Fano),0.08640553617418509
+Inconsistency,E24 profiles,637
+Inconsistency,share of the boundary held by the 10 largest profiles,0.6393025790047221
+Inconsistency,lowest malignant rate among the 10 largest profiles,0.02197802197802198
+Inconsistency,highest malignant rate among the 10 largest profiles,0.3
+Inconsistency,images in the profile of rank 1 (erythema with plaque),411
+Inconsistency,diagnoses in the profile of rank 1,85
+Inconsistency,images in the profile of rank 2 (papule with brown hyperpigmentation),267
+Inconsistency,diagnoses in the profile of rank 2,68
+Inconsistency,images in the profile of rank 3 (erythema with papule),266
+Inconsistency,diagnoses in the profile of rank 3,75
+Inconsistency,images in the profile of rank 4 (erythema with plaque with scale),254
+Inconsistency,diagnoses in the profile of rank 4,65
+Inconsistency,inconsistent profiles,118
+Inconsistency,inconsistent profiles with a conflict ratio of at most 0.2,35
+Inconsistency,inconsistent profiles with a conflict ratio of one half,25
+Inconsistency,malignant images in the boundary,0.7488226059654631
+Inconsistency,non-malignant images in the boundary,0.7121401752190237
+Inconsistency,BCC images in the boundary,0.6931216931216931
+Inconsistency,SCC images in the boundary,0.6549707602339181
+Inconsistency,Melanoma images in the boundary,0.7936507936507936
+Inconsistency,Cutaneous lymphoma images in the boundary,0.9493670886075949
+Inconsistency,Actinic keratosis images in the boundary,0.7575757575757576
+Inconsistency,Kaposi sarcoma images in the boundary,0.875
+Inconsistency,benign images in the boundary,0.7857142857142857
+Inconsistency,non-neoplastic images in the boundary,0.6834782608695652
+Inconsistency,forced errors among BCC images,0.25396825396825395
+Inconsistency,forced errors among SCC images,0.1695906432748538
+Inconsistency,forced errors among Melanoma images,0.2222222222222222
+Inconsistency,forced errors among Cutaneous lymphoma images,0.4430379746835443
+Inconsistency,forced errors among Actinic keratosis images,0.24242424242424243
+Inconsistency,forced errors among Kaposi sarcoma images,0.4375
+Inconsistency,forced errors among benign images,0.29129464285714285
+Inconsistency,forced errors among non-neoplastic images,0.20478260869565218
+Concepts,images with erythema,2349
+Concepts,mutual information of erythema (mbit),0.16928539465115386
+Concepts,images with plaque,2118
+Concepts,mutual information of plaque (mbit),0.1741924974234209
+Concepts,images with papule,1565
+Concepts,mutual information of papule (mbit),1.0864992989148674
+Concepts,mutual information of crust (mbit),20.023115966018835
+Concepts,mutual information of telangiectasia (mbit),19.886313962948655
+Concepts,mutual information of black (mbit),14.981547208697211
+Concepts,Shapley value of crust for the balanced accuracy ceiling,0.05053256196095484
+Concepts,Shapley value of black for the balanced accuracy ceiling,0.02516804905268151
+Concepts,Shapley value of telangiectasia for the balanced accuracy ceiling,0.024787500597620433
+Concepts,Shapley value of brown_hyperpigmentation for the balanced accuracy ceiling,0.020556062850672113
+Concepts,share of the conflict mass that involves black,0.06521739130434782
+Concepts,prevalence of black,0.030785285677015394
+Concepts,conflict enrichment of black,2.1184598378776713
+Concepts,conflict enrichment of crust,1.3989051094890512
+Concepts,conflict enrichment of brown_hyperpigmentation,1.2532482192207386
+Concepts,conflict enrichment of erosion,1.212727087160645
+Concepts,conflict enrichment of telangiectasia,1.2018185618729098
+Concepts,conflict enrichment of ulcer,1.1975006508721686
+Concepts,Shapley value of crust for the detectability of SCC,0.15998440545808762
+Concepts,Shapley value of crust for the detectability of Actinic keratosis,0.3087272727272699
+Concepts,Shapley value of brown_hyperpigmentation for the detectability of Melanoma,0.19167460317460075
+Concepts,Shapley value of brown_hyperpigmentation for the detectability of Kaposi sarcoma,0.16566666666666666
+Concepts,Shapley value of brown_hyperpigmentation for the detectability of Cutaneous lymphoma,0.13834599156118138
+Concepts,Shapley value of black for the detectability of Kaposi sarcoma,-0.13367708333333334
+Concepts,Shapley value of black for the detectability of Cutaneous lymphoma,-0.09355274261603455
+Concepts,"smallest detectability value of white hypopigmentation, pustule and patch",0.047161616161615794
+Concepts,"largest detectability value of white hypopigmentation, pustule and patch",0.10315625
+Forced misses,forced misses,166
+Forced misses,share of malignant images that are forced misses,0.260596546310832
+Forced misses,forced misses among BCC images,0.25396825396825395
+Forced misses,forced misses among SCC images,0.1695906432748538
+Forced misses,forced misses among Melanoma images,0.2222222222222222
+Forced misses,forced misses among Cutaneous lymphoma images,0.4430379746835443
+Forced misses,forced misses among Actinic keratosis images,0.24242424242424243
+Forced misses,forced misses among Kaposi sarcoma images,0.4375
+Forced misses,share of forced misses with all 48 concepts,0.23861852433281006
+Forced misses,share of forced misses held by the four largest such profiles,0.7771084337349398
+Forced misses,malignant images in papule with brown hyperpigmentation,42
+Forced misses,Melanoma images in papule with brown hyperpigmentation,19
+Forced misses,BCC images in papule with brown hyperpigmentation,13
+Forced misses,Kaposi sarcoma images in papule with brown hyperpigmentation,5
+Forced misses,SCC images in papule with brown hyperpigmentation,3
+Forced misses,Cutaneous lymphoma images in papule with brown hyperpigmentation,1
+Forced misses,Actinic keratosis images in papule with brown hyperpigmentation,1
+Forced misses,melanocytic nevi in papule with brown hyperpigmentation,66
+Forced misses,seborrheic keratosis in papule with brown hyperpigmentation,27
+Forced misses,dermatofibroma in papule with brown hyperpigmentation,10
+Forced misses,"forced misses with crust, black, telangiectasia or ulcer",0.030120481927710843
+Forced misses,detected malignant images with one of these markers,0.6411889596602972
+Forced misses,non-malignant images with one of these markers,0.16239048811013768
+Forced misses,forced misses rescued by at least one edit,0.9759036144578314
+Forced misses,forced misses rescued by adding crust,0.8253012048192772
+Forced misses,forced misses rescued by adding black,0.6686746987951807
+Forced misses,forced misses rescued by adding telangiectasia,0.608433734939759
+Forced misses,forced misses rescued by adding brown_hyperpigmentation,0.4578313253012048
+Forced misses,forced misses rescued by the greedy selection after 1 edits (add crust),0.8253012048192772
+Forced misses,forced misses rescued by the greedy selection after 2 edits (add black),0.8855421686746988
+Forced misses,forced misses rescued by the greedy selection after 3 edits (drop brown_hyperpigmentation),0.927710843373494
+Forced misses,forced misses rescued by the greedy selection after 4 edits (add telangiectasia),0.9457831325301205
+Forced misses,forced misses rescued by the greedy selection after 5 edits (drop yellow),0.9578313253012049
+Forced misses,forced misses rescued by the greedy selection after 6 edits (add yellow),0.963855421686747
+Forced misses,cutaneous lymphoma forced misses rescued by brown hyperpigmentation,0.7714285714285715
+Sources of inconsistency,confirmed pairs with different concept vectors,19
+Sources of inconsistency,Cohen's kappa of erythema across confirmed pairs,0.8695652173913043
+Sources of inconsistency,Cohen's kappa of plaque across confirmed pairs,0.8611111111111112
+Sources of inconsistency,Cohen's kappa of papule across confirmed pairs,0.660633484162896
+Sources of inconsistency,Cohen's kappa of scale across confirmed pairs,0.4915254237288138
+Sources of inconsistency,boundary images of the training split,1594
+Sources of inconsistency,malignant boundary images of the training split,250
+Sources of inconsistency,grouped five-fold AUROC on image embeddings,0.7990684523809523
+Sources of inconsistency,grouped five-fold AUROC on annotated concepts,0.6490595238095238
+Sources of inconsistency,in-sample AUROC ceiling of the concepts on these images,0.7152157738095238
+Sources of inconsistency,mean cosine of different-label pairs in one profile,0.4425272459173092
+Sources of inconsistency,mean cosine of same-label pairs in one profile,0.4501733915083318
+Filtering,training gamma after tau-editing,0.8217550274223034
+Filtering,out-of-fold AUROC without filter,0.7492022995777687
+Filtering,lowest out-of-fold AUROC after a filter,0.661358733346039
+Filtering,highest out-of-fold AUROC after a filter,0.7380381776278433
+Filtering,lowest AUROC on filtered test folds,0.8139728804108198
+Filtering,highest AUROC on filtered test folds,0.9235156110924467
+Filtering,AUROC of majority editing on filtered test folds,0.9235156110924467
+Filtering,out-of-fold AUROC of majority editing,0.7109185736487721
+Filtering,"images in marker profiles called malignant, none",0.9430992736077481
+Filtering,"images in other profiles called malignant, none",0.152643831060858
+Filtering,"images in marker profiles called malignant, symmetric",0.7094430992736077
+Filtering,"images in other profiles called malignant, symmetric",0.011306950448952444
+Filtering,"images in marker profiles called malignant, majority",0.5193704600484261
+Filtering,"images in other profiles called malignant, majority",0.02494180246092451
+Filtering,"images in marker profiles called malignant, asymmetric",0.8244552058111381
+Filtering,"images in other profiles called malignant, asymmetric",0.7283006318589956
+Filtering,"Pearson r between score and rate of inconsistent profiles, none",0.6696937240748158
+Filtering,"Pearson r between score and rate of inconsistent profiles, asymmetric",0.31412811370993493
+Filtering,"malignant training images kept, symmetric",104
+Filtering,"share of malignant training images kept, symmetric",0.2937853107344633
+Filtering,"malignant training images kept, majority",117
+Filtering,"share of malignant training images kept, majority",0.3305084745762712
+Filtering,"malignant training images kept, weighted",266
+Filtering,"share of malignant training images kept, weighted",0.751412429378531
+Filtering,malignant training images,354
+Filtering,"share of non-malignant training images kept, majority",0.9959266802443992
+Filtering,"share of BCC training images kept, symmetric",0.3131313131313131
+Filtering,"share of SCC training images kept, symmetric",0.4361702127659574
+Filtering,"share of Cutaneous lymphoma training images kept, symmetric",0.0444444444444444
+Filtering,Pearson r between retained share and sensitivity,0.7778724218441165
+Filtering,points in that correlation,36
+Filtering,"missed malignant images, none",238
+Filtering,"missed malignant images, symmetric",358
+Filtering,"missed malignant images, asymmetric",75
+Filtering,"missed malignant images, majority",397
+Filtering,"missed malignant images, weighted",222
+Filtering,"missed malignant images, tau",292
+Filtering,specificity of asymmetric removal,0.29130162703379225
+Filtering,sensitivity of asymmetric removal,0.8822605965463108
+Filtering,specificity of the unfiltered model at the same sensitivity,0.380162703379224
+Concept bottleneck models,"test AUROC, hard",0.7948571428571428
+Concept bottleneck models,"test AUROC, soft",0.8342184873949581
+Concept bottleneck models,"test AUROC, hybrid",0.8129434173669469
+Concept bottleneck models,test AUROC of a logistic regression on annotated concepts,0.7552672268907563
+Concept bottleneck models,AUROC ceiling of the annotated test concepts,0.909526050420168
+Concept bottleneck models,"test concept AUROC, mean",0.8477730879031746
+Concept bottleneck models,"test concept AUROC, standard deviation",0.0022548933195570076
+Concept bottleneck models,test images with the whole profile predicted correctly,0.021296296296296268
+Concept bottleneck models,AUROC gain of the soft model over the hard model,0.03936134453781526
+Concept bottleneck models,AUROC gain of the hybrid model over the hard model,0.018086274509804046
+Concept bottleneck models,share of the hybrid logit carried by the visual units,0.16662747353837218
+Concept bottleneck models,test decisions changed by the visual units,0.0532407407407407
+Concept bottleneck models,"seed 42, visual weight norm",0.5760245323181152
+Concept bottleneck models,"seed 42, decisions changed",32
+Concept bottleneck models,"seed 42, malignant images rescued",11
+Concept bottleneck models,"seed 42, malignant images lost",0
+Concept bottleneck models,"seed 42, false positives added",19
+Concept bottleneck models,"seed 42, false positives removed",2
+Concept bottleneck models,"seed 64, visual weight norm",0.0208126679062843
+Concept bottleneck models,"seed 64, decisions changed",2
+Concept bottleneck models,"seed 64, malignant images rescued",0
+Concept bottleneck models,"seed 64, malignant images lost",0
+Concept bottleneck models,"seed 64, false positives added",0
+Concept bottleneck models,"seed 64, false positives removed",2
+Concept bottleneck models,"seed 128, visual weight norm",0.7425667643547058
+Concept bottleneck models,"seed 128, decisions changed",81
+Concept bottleneck models,"seed 128, malignant images rescued",3
+Concept bottleneck models,"seed 128, malignant images lost",5
+Concept bottleneck models,"seed 128, false positives added",6
+Concept bottleneck models,"seed 128, false positives removed",67
+Missed malignancies,test malignancies,125
+Missed malignancies,"lowest miss rate over the models, All malignant",0.22133333333333338
+Missed malignancies,"highest miss rate over the models, All malignant",0.23733333333333329
+Missed malignancies,"lowest miss rate over the models, BCC",0.11904761904761907
+Missed malignancies,"highest miss rate over the models, BCC",0.1428571428571428
+Missed malignancies,"lowest miss rate over the models, SCC",0.14141414141414144
+Missed malignancies,"highest miss rate over the models, SCC",0.1515151515151515
+Missed malignancies,"lowest miss rate over the models, Melanoma",0.21666666666666667
+Missed malignancies,"highest miss rate over the models, Melanoma",0.2666666666666666
+Missed malignancies,"lowest miss rate over the models, Cutaneous lymphoma",0.4358974358974358
+Missed malignancies,"highest miss rate over the models, Cutaneous lymphoma",0.46153846153846156
+Missed malignancies,"lowest miss rate over the models, Actinic keratosis",0.5333333333333332
+Missed malignancies,"highest miss rate over the models, Actinic keratosis",0.5333333333333334
+Missed malignancies,"lowest miss rate over the models, Kaposi sarcoma",0.37037037037037035
+Missed malignancies,"highest miss rate over the models, Kaposi sarcoma",0.40740740740740744
+Missed malignancies,"test images, BCC",42
+Missed malignancies,"test images, SCC",33
+Missed malignancies,"test images, Melanoma",20
+Missed malignancies,"test images, Cutaneous lymphoma",13
+Missed malignancies,"test images, Actinic keratosis",5
+Missed malignancies,"test images, Kaposi sarcoma",9
+Missed malignancies,"missed test malignancies, hard",29.66666666666666
+Missed malignancies,"missed test malignancies, soft",27.66666666666667
+Missed malignancies,"missed test malignancies, hybrid",28.00000000000001
+Missed malignancies,forced cases among the test malignancies,32
+Missed malignancies,"forced cases missed, hard",13.0
+Missed malignancies,"forced cases detected, hard",19.0
+Missed malignancies,"other malignancies missed, hard",16.666666666666668
+Missed malignancies,"share of the misses that are forced cases, hard",0.4382022471910112
+Missed malignancies,"forced cases missed, soft",12.333333333333334
+Missed malignancies,"forced cases detected, soft",19.666666666666668
+Missed malignancies,"other malignancies missed, soft",15.333333333333334
+Missed malignancies,"share of the misses that are forced cases, soft",0.4457831325301205
+Missed malignancies,"forced cases missed, hybrid",12.666666666666666
+Missed malignancies,"forced cases detected, hybrid",19.333333333333332
+Missed malignancies,"other malignancies missed, hybrid",15.333333333333334
+Missed malignancies,"share of the misses that are forced cases, hybrid",0.4523809523809524
+Missed malignancies,"median logit, forced, hard",0.15024211630225182
+Missed malignancies,"median logit, non-malignant, hard",-0.5121346116065979
+Missed malignancies,"median logit, other malignant, hard",1.187520146369934
+Missed malignancies,"median logit, forced, soft",0.1269569396972656
+Missed malignancies,"median logit, non-malignant, soft",-0.7369707822799683
+Missed malignancies,"median logit, other malignant, soft",1.3674519062042236
+Missed malignancies,"median logit, forced, hybrid",0.13289852440357205
+Missed malignancies,"median logit, non-malignant, hybrid",-0.4706266820430755
+Missed malignancies,"median logit, other malignant, hybrid",1.0675947666168213
+Missed malignancies,"test sensitivity at the 90% target, hard",0.9253333333333332
+Missed malignancies,"test specificity at the 90% target, hard",0.42408963585434173
+Missed malignancies,"missed test malignancies at the 90% target, hard",9.333333333333346
+Missed malignancies,"test sensitivity at the 90% target, soft",0.9119999999999999
+Missed malignancies,"test specificity at the 90% target, soft",0.5282913165266107
+Missed malignancies,"missed test malignancies at the 90% target, soft",11.00000000000001
+Missed malignancies,"test sensitivity at the 90% target, hybrid",0.9146666666666667
+Missed malignancies,"test specificity at the 90% target, hybrid",0.47450980392156866
+Missed malignancies,"missed test malignancies at the 90% target, hybrid",10.666666666666657
+Missed malignancies,"test sensitivity at the 95% target, hard",0.9493333333333333
+Missed malignancies,"test specificity at the 95% target, hard",0.3277310924369748
+Missed malignancies,"missed test malignancies at the 95% target, hard",6.333333333333344
+Missed malignancies,"test sensitivity at the 95% target, soft",0.9573333333333333
+Missed malignancies,"test specificity at the 95% target, soft",0.36246498599439775
+Missed malignancies,"missed test malignancies at the 95% target, soft",5.333333333333343
+Missed malignancies,"test sensitivity at the 95% target, hybrid",0.9626666666666667
+Missed malignancies,"test specificity at the 95% target, hybrid",0.292436974789916
+Missed malignancies,"missed test malignancies at the 95% target, hybrid",4.666666666666666
+Missed malignancies,flag rate of seborrheic keratosis at the 95% target,1.0
+Missed malignancies,flag rate of pyogenic granuloma at the 95% target,0.9696969696969697
+Missed malignancies,flag rate of neutrophilic dermatoses at the 95% target,0.9259259259259259
+Missed malignancies,flag rate of melanocytic nevi at the 95% target,0.905982905982906
+Model selection,best validation concept AUROC after 30 epochs,0.8743202374924214
+Model selection,best validation AUROC of hybrid heads with small penalties,0.847385887168889
+Model selection,smallest visual share of hybrid heads with small penalties,0.6066754176085082
+Model selection,selected number of visual units,32
+Model selection,selected L1 weight,0.1
