@@ -69,4 +69,4 @@ Please also cite SkinCon (Daneshjou et al., NeurIPS 2022), Fitzpatrick17k (Groh 
 
 ## License
 
-[License of the code to be completed by the authors.] The SkinCon annotations and the source images remain subject to the terms of their original releases.
+The code in this repository, including the notebooks, is licensed under the MIT License; see [`LICENSE`](LICENSE). This license does not cover the data files or third-party material. The SkinCon annotations and source images remain subject to the terms of their original releases.
